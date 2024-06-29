@@ -17,9 +17,9 @@ This project is a simple web-based Tic Tac Toe game where you can play against t
 
 ## Project Structure
 
-The project contains two HTML documents:
-- The first document (`index.html`) serves as the welcome screen where users can choose to start the game.
-- The second document (`game.html`) is the main game interface where the Tic Tac Toe game is played.
+The project contains two PHP documents:
+- The first document (`main.php`) serves as the welcome screen where users can choose to start the game.
+- The second document (`tictac.php`) is the main game interface where the Tic Tac Toe game is played.
 
 ## Technologies Used
 
@@ -28,10 +28,4 @@ The project contains two HTML documents:
 - **JavaScript**: For implementing the game logic and interactivity.
 - **PHP**: For determining the starting player dynamically.
 
-## Installation
 
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
